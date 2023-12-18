@@ -8,8 +8,5 @@
 - [ ] Separating instructions (lines)
 - [ ] Lexing instructions
 - [ ] Define tokens from instructions
-
-
-** TODO TBD
-
-- [ ] Prettify errors
+- [ ] Fix
+  - [ ] Prettify errors
