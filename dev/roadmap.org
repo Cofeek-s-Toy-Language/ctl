@@ -10,6 +10,6 @@
 - [ ] Define tokens from instructions
 
 
-*** TODO TBD
+** TODO TBD
 
 - [ ] Prettify errors
