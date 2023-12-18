@@ -1,0 +1,10 @@
+* Features implementation
+
+
+** Lexer [2/5]
+
+- [X] Reading source file
+- [X] Handling errors related to it
+- [ ] Separating instructions (lines)
+- [ ] Lexing instructions
+- [ ] Define tokens from instructions
