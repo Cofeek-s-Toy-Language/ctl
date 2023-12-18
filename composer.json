@@ -1,0 +1,18 @@
+{
+    "name": "ctl/interpriter",
+    "description": "cofeeek toy language",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ctl\\Interpriter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "cofeek-codes",
+            "email": "kormyshev11@mail.ru"
+        }
+    ],
+    "require": {}
+}
