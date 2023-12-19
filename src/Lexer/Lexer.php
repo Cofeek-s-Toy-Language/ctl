@@ -1,11 +1,10 @@
 <?php
 
 
-namespace Ctl\Interpriter\Lexer;
+namespace LPL\Interpriter\Lexer;
 
-use Ctl\Interpriter\Exeption\LexerExeption;
-use Ctl\Interpriter\Exeption\LexerExeptionKind;
-use ErrorException;
+use LPL\Interpriter\Exeption\LexerExeption;
+use LPL\Interpriter\Exeption\LexerExeptionKind;
 
 define("FILE_EXT", "lpl");
 

@@ -1,18 +1,21 @@
 {
-    "name": "ctl/interpriter",
-    "description": "cofeeek toy language",
-    "type": "project",
-    "license": "MIT",
-    "autoload": {
-        "psr-4": {
-            "Ctl\\Interpriter\\": "src/"
-        }
-    },
-    "authors": [
-        {
-            "name": "cofeek-codes",
-            "email": "kormyshev11@mail.ru"
-        }
-    ],
-    "require": {}
+	"name": "lpl/interpriter",
+	"description": "programming language (for learning) by cofeek-codes and Faelorg",
+	"type": "project",
+	"license": "MIT",
+	"autoload": {
+		"psr-4": {
+			"LPL\\Interpriter\\": "src/"
+		}
+	},
+	"authors": [
+		{
+			"name": "cofeek-codes",
+			"email": "11kormyshev11@gmail.com"
+		},
+		{
+			"name": "Faelorg"
+		}
+	],
+	"require": {}
 }

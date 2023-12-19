@@ -1,6 +1,6 @@
 <?php
 
-namespace Ctl\Interpriter\Exeption;
+namespace LPL\Interpriter\Exeption;
 
 use Exception;
 

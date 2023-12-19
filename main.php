@@ -1,6 +1,6 @@
 <?php
 
-use Ctl\Interpriter\Lexer\Lexer;
+use LPL\Interpriter\Lexer\Lexer;
 
 require './vendor/autoload.php';
 

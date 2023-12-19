@@ -1,6 +1,6 @@
 <?php
 
-namespace Ctl\Interpriter\Parser;
+namespace LPL\Interpriter\Parser;
 
 class TokenKind
 {
